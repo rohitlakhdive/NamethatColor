@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Name that Color</string>
+    <string name="back">Back</string>
+    <string name="photo_here">Photo Here</string>
+    <string name="target">Target</string>
+    <string name="grid">Grid</string>
+    <string name="wait">wait...</string>
+</resources>
